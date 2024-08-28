@@ -55,9 +55,15 @@ That's about it...
 
 
 ## Reference
+KEDA Official Website
 [Keda-official](
 https://keda.sh/)
+
+
+Deploying KEDA to kubernetes cluster
 [deploy-keda](
 https://keda.sh/docs/2.12/deploy/)
+
+KEDA Source code can be found at:-
 [keda-source-code](
 https://github.com/kedacore/keda)
